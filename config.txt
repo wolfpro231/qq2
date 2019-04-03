@@ -1,0 +1,6 @@
+owner=455847998325260304
+prefix=Axs
+game= Axshelp _ Axsplay
+stayinchannel=true
+songinstatus=false
+token=NTYyOTY2NTcxMDE5MDEwMDQ5.XKSduQ.TV4BHl-ZK-f8vlEORPmTSv2Ge64
